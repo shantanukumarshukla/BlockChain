@@ -1,0 +1,2 @@
+pubnub
+pytest==5.1.2
